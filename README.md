@@ -1,5 +1,5 @@
 # PHP-from-Aliens
-###  Those Bunch of Advance Level PHP Code which directly provided by Alien [NightHowler] from InsmnicUniverse.
+###  Those Bunch of Advance Level PHP Code which directly provided by Alien [NightHowler] from InsomnicUniverse.
 ###  Don't be afraid of using Alien technology.
 ###  They're our guest, they gifted us something outstanding level of code.
 ###  So, keep quiet & use these code in your project.
